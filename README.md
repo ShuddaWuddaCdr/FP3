@@ -3,9 +3,9 @@ DUE April 2, 2015 Thursday (2015-04-02)
 
 ### Team Members
 
-1. Git: carlsonb99 Real: Brian Carlson
-2. Git: Caravetta  Real: Joshua Caravetta
-3. Git: norman2005 Real: Norman Mutunga
+1. Git: carlsonb99    Real: Brian Carlson
+2. Git: Caravetta     Real: Joshua Caravetta
+3. Git: norman2005    Real: Norman Mutunga
 
 ### A Team Name
 ShuddaWuddaCdr
@@ -21,4 +21,4 @@ ShuddaWuddaCdr
 
 ### Libraries You Plan to Use 
 
-Probably need GUI, Graphing, Net and some others to do either idea.
+Probably need GUI, Graphing, Net and/or some others to do either idea.
