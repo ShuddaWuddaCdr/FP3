@@ -20,4 +20,5 @@ Goat Alpha
 ### Libraries You Plan to Use 
 
 * Plot
+* GUI
 * other libraries
