@@ -21,4 +21,4 @@ Goat Alpha
 
 * Plot
 * GUI
-* other libraries
+* Possibly some others depending on implementation
